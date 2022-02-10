@@ -11,7 +11,7 @@ Use the package manager [pip3](https://pypi.org/project/tweepy/) to install twee
 ```bash
 pip3 install tweepy
 ```
-## Install Tweepy
+## Install Random Fact Generator
 
 Use the package manager [pip3](https://pypi.org/project/randfacts/) to install randfacts
 
@@ -23,6 +23,15 @@ pip3 install randfacts
 1. You must know what @mention and what #hashtag you want to use.
 2. You must be able to edit the crontab -e file if you want this script to run.
 3. You must create a API_Keys.py file and import your keys accordingly, use the tweepy style.
+```
+
+## API_Keys.py File
+```bash
+### Name of Account ###
+# consumer_key = ''
+# consumer_secret = ''
+# access_token = ''
+# access_token_secret = ''
 ```
 ## Copyright
 
