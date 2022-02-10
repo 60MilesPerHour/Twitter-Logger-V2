@@ -13,15 +13,16 @@ pip3 install tweepy
 ```
 ## Install Tweepy
 
-Use the package manager [pip3](https://pypi.org/project/tweepy/) to install tweepy
+Use the package manager [pip3](https://pypi.org/project/randfacts/) to install randfacts
 
 ```bash
 pip3 install randfacts
 ```
 ## Rules
 ```
-1. Know what @mention and what #hashtag you want to use.
+1. You must know what @mention and what #hashtag you want to use.
 2. You must be able to edit the crontab -e file if you want this script to run.
+3. You must create a API_Keys.py file and import your keys accordingly, use the tweepy style.
 ```
 ## Copyright
 
