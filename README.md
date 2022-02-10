@@ -1,5 +1,7 @@
 # Twitter-Logger-V2
 
+<a class="copyrighted-badge" title="Copyrighted.com Registered &amp; Protected" target="_blank" href="https://www.copyrighted.com/work/SDN9EdkW1uqttNJe"><img alt="Copyrighted.com Registered &amp; Protected" border="0" width="125" height="25" srcset="https://static.copyrighted.com/badges/125x25/05_2_2x.png 2x" src="https://static.copyrighted.com/badges/125x25/05_2.png" /></a>
+
 Have you ever wanted an automatically generated text file of raw data pulled from Twitter that logs every mention of a specific hashtag, or user? This script does exactly that. Upon execution of the Twitter logger, you will see a raw data file filing up with data that has not been sorted yet, soon after that file is created you will see a now automatically generated cleaned up version of that specific file.
 
 ## Install Tweepy
@@ -7,18 +9,21 @@ Have you ever wanted an automatically generated text file of raw data pulled fro
 Use the package manager [pip3](https://pypi.org/project/tweepy/) to install tweepy
 
 ```bash
-pip install tweepy
+pip3 install tweepy
 ```
+## Install Tweepy
 
-## Usage
+Use the package manager [pip3](https://pypi.org/project/tweepy/) to install tweepy
+
+```bash
+pip3 install randfacts
+```
+## Rules
 ```
 1. Know what @mention and what #hashtag you want to use.
-2. 
+2. You must be able to edit the crontab -e file if you want this script to run.
 ```
-
 ## Copyright
-
-<a class="copyrighted-badge" title="Copyrighted.com Registered &amp; Protected" target="_blank" href="https://www.copyrighted.com/work/SDN9EdkW1uqttNJe"><img alt="Copyrighted.com Registered &amp; Protected" border="0" width="125" height="25" srcset="https://static.copyrighted.com/badges/125x25/05_2_2x.png 2x" src="https://static.copyrighted.com/badges/125x25/05_2.png" /></a>
 
 Twitter-Logger-V2 is copyrighted by the Twitter user @60_MPH, Twitter-Logger-V2 is copyrighted (c) under copyrighted.com
 
